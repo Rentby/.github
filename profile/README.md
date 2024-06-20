@@ -18,5 +18,5 @@ Theme: Hobby Accessibility, Rental, Cost Efficiency
 2. Web Development : HTML, CSS, JavaScript, Express.js
 3. Backend Development: Node.js, Express.js, Flask, Firebase, Midtrans
 4. Machine Learning : TensorFlow, Scikit-learn, Numpy, Pandas, Matplotlib
-5. Deployment : Firebase, Midtrans, Google Cloud
+5. Deployment : Firebase, Google Cloud
 6. Tools : Selenium, Git, Github, Visual Studio Code, Figma, Google Docs, Google Drive
