@@ -9,7 +9,7 @@ Theme: Hobby Accessibility, Rental, Cost Efficiency
 2. (ML) M208D4KY2045 - Muh. Fathur Rahman Awaluddin - Universitas Hasanuddin (Active)
 3. (ML) M010D4KY3232 - Bima Aristo - Universitas Indonesia (Active)
 4. (CC) C278D4KX0513 - Sazkiatun Binafsi - Universitas Negeri Makassar - (Active)
-5. (CC) C318D4KY0648 - Universitas Sultan Ageng Tirtayasa (Active)
+5. (CC) C318D4KY0648 - Diky Ahmad Kamaludin - Universitas Sultan Ageng Tirtayasa (Active)
 6. (MD) A208D4KY4149 - Andi Muh. Daffa Yuslim - Universitas Hasanuddin - (Active)
 7. (MD) A200D4KX3583 - Salsabila Rafifah Handifa - Universitas Diponegoro (Active)
 
