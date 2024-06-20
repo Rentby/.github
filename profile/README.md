@@ -2,7 +2,7 @@
 
 RentBy is a mobile platform designed to facilitate the rental of hobby equipment. It serves as a centralized marketplace where users can browse, compare, and rent various types of equipment typically used for hobbies such as hiking, cosplay, and other recreational activities. RentBy aims to make hobbies more accessible and affordable by offering a convenient solution to find and rent equipment without the need for extensive searches or multiple contacts with rental providers.
 
-Theme: Hobby Accessibility, Recreational, Cost Efficiency
+Theme: Hobby Accessibility, Rental, Cost Efficiency
 
 ## Team ID : ENTR-H127
 1. (ML) M208D4KX2912 - Nurunnisa Fathanah Dz. S. B. - Universitas Hasanuddin (Active)
@@ -15,7 +15,8 @@ Theme: Hobby Accessibility, Recreational, Cost Efficiency
 
 ## Tech Stacks
 1. Mobile Development : Kotlin, Android SDK, Android Studio
-2. Backend : Node.js, Express.js, Flask
-3. Machine Learning : TensorFlow, Scikit-learn, Numpy, Pandas, Matplotlib
-4. Deployment : Firebase, Midtrans
-5. Tools : Selenium, Gradle, Git, Visual Studio Code, Figma, Google Docs, Google Drive
+2. Web Development : HTML, CSS, JavaScript, Express.js
+3. Backend Development: Node.js, Express.js, Flask, Firebase, Midtrans
+4. Machine Learning : TensorFlow, Scikit-learn, Numpy, Pandas, Matplotlib
+5. Deployment : Firebase, Midtrans, Google Cloud
+6. Tools : Selenium, Git, Github, Visual Studio Code, Figma, Google Docs, Google Drive
