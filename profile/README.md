@@ -1,5 +1,7 @@
 # RentBy App
 
+<img src="RentBy.png" alt="RentBy App" width="100%" />
+
 RentBy is a mobile platform designed to facilitate the rental of hobby equipment. It serves as a centralized marketplace where users can browse, compare, and rent various types of equipment typically used for hobbies such as hiking, cosplay, and other recreational activities. RentBy aims to make hobbies more accessible and affordable by offering a convenient solution to find and rent equipment without the need for extensive searches or multiple contacts with rental providers.
 
 Theme: Hobby Accessibility, Rental, Cost Efficiency
